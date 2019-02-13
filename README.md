@@ -3,7 +3,7 @@
 [![npm](https://img.shields.io/npm/v/elastic-apm-trace-context.svg)](https://www.npmjs.com/package/elastic-apm-trace-context)
 [![Build status](https://travis-ci.org/elastic/elastic-apm-trace-context.svg?branch=master)](https://travis-ci.org/elastic/elastic-apm-trace-context)
 [![codecov](https://img.shields.io/codecov/c/github/elastic/elastic-apm-trace-context.svg)](https://codecov.io/gh/elastic/elastic-apm-trace-context)
-[![Standard - JavaScript Style Guide](https://img.shields.io/badge/code%20style-standard-brightgreen.svg?style=flat)](https://github.com/feross/standard)
+[![Standard - JavaScript Style Guide](https://img.shields.io/badge/code%20style-standard-brightgreen.svg?style=flat)](https://github.com/feross/standard) [![Greenkeeper badge](https://badges.greenkeeper.io/Qard/apm-nodejs-trace-context.svg)](https://greenkeeper.io/)
 
 This is a basic implementation of the W3C trace context header spec.
 
